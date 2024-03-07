@@ -7,4 +7,4 @@
 - Python
 - ...
 > Metodolgias de Desenvolvimento de Software @ 2020  
-![IPL](https://upload.wikimedia.org/wikipedia/commons/9/9a/Log%C3%B3tipo_Polit%C3%A9cnico_Leiria_01.png)
+![IPL](https://eduportugal.eu/wp-content/uploads/2017/08/eduportugal_ipleiria_n.jpg)
